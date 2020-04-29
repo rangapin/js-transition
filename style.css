@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #c5ccff;
+}
+
+.landing {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.distortion {
+    height: 100%;
+    width: 50%;
+    align-self: flex-end;
+}
+
+.intro {
+    padding: 14px;
+    align-self: center;
+    width: 50vw;
+}
+
+.intro p {
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 4rem;
+}
